@@ -104,7 +104,7 @@ API_gateway_with_ratelimiting_and_Jwt_validation/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kart2405/API_Gateway.git
+   git clone https://github.com/shashidharbabu/api-gateway.git
    cd API_gateway_with_ratelimiting_and_Jwt_validation
    ```
 
